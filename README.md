@@ -14,6 +14,15 @@ Email me at vivek.thazhathattil@gmail.com
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<p align = "left">
+  <a href="https://github.com/VivekThazhathattil">
+    <img src = "https://github-readme-stats.vercel.app/api?username=VivekThazhathattil&show_icons=true&line_height=27&include_all_commits=true", width="400px">
+  </a>
+  <a href="https://github.com/VivekThazhathattil">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VivekThazhathattil&hide=jupyter%20notebook&layout=compact&langs_count=10">
+  </a>
+</p>
+
  **Cool stuff from one of my projects I'm working on:**
 <p float="left">
 <img src="res/shapes.gif" width="200" height="200"/>
