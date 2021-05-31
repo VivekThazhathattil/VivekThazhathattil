@@ -16,15 +16,9 @@ Email me at vivek.thazhathattil@gmail.com
 
 <p align = "left">
   <a href="https://github.com/VivekThazhathattil">
-    <img src = "https://github-readme-stats.vercel.app/api?username=VivekThazhathattil&show_icons=true&line_height=27&include_all_commits=true", width="400px">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VivekThazhathattil&theme=dark&hide=jupyter%20notebook&layout=compact&langs_count=10" >
   </a>
   <a href="https://github.com/VivekThazhathattil">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VivekThazhathattil&hide=jupyter%20notebook&layout=compact&langs_count=10">
+    <img src = "https://github-readme-stats.vercel.app/api?username=VivekThazhathattil&show_icons=true&theme=dark&line_height=27&include_all_commits=true">
   </a>
-</p>
-
- **Cool stuff from one of my projects I'm working on:**
-<p float="left">
-<img src="res/shapes.gif" width="200" height="200"/>
-<img src="res/shapes2.gif" width="200" height="200"/>
 </p>
