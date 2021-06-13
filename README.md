@@ -2,6 +2,8 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 I'm Vivek and I love programming! 
 
+[My portfolio](https://vivekthazhathattil.github.io/portfolio/index.html)
+
 Email me at vivek.thazhathattil@gmail.com
 
 
