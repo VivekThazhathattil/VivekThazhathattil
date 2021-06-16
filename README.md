@@ -2,7 +2,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 I'm Vivek and I love programming! 
 
-[My portfolio](https://vivekthazhathattil.github.io/portfolio/index.html)
+[My portfolio](https://vivekthazhathattil.github.io/portfolio/)
 
 Email me at vivek.thazhathattil@gmail.com
 
@@ -17,9 +17,6 @@ Email me at vivek.thazhathattil@gmail.com
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <p align = "left">
-  <a href="https://github.com/VivekThazhathattil">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VivekThazhathattil&theme=dark&hide=jupyter%20notebook&layout=compact&langs_count=10" >
-  </a>
   <a href="https://github.com/VivekThazhathattil">
     <img src = "https://github-readme-stats.vercel.app/api?username=VivekThazhathattil&show_icons=true&theme=dark&line_height=27&include_all_commits=true">
   </a>
