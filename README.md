@@ -1,7 +1,6 @@
 Hi! I'm Vivek. I like all things FOSS. I do a bit of programming as well.
 
 [Personal webpage](https://vivekthazhathattil.github.io/portfolio/)
-[തകരച്ചെണ്ട](https://vivekthazhathattil.github.io/blog/)
 
 Email me at vivek.thazhathattil@gmail.com
 
